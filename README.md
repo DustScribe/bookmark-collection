@@ -1,3 +1,4 @@
+- [How To Configure Storage On Linux](https://embeddedprojects101.com/the-beginners-guide-to-linux-storage-configuration/) #linux
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
 
