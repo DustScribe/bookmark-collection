@@ -24,7 +24,7 @@ jobs:
     - name: Checkout bookmark-summary
       uses: actions/checkout@v2
       with:
-        repository: jerrylususu/bookmark-summary
+        repository: mortence/bookmark-summary
         path: bookmark-summary
         token: ${{ secrets.PAT }}
 
