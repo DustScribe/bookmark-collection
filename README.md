@@ -1,6 +1,3 @@
-- [mortence/bookmark-collection](https://github.com/mortence/bookmark-collection) #gfw
-- [ZeroTier 创建私有服务器节点(Moon节点)](https://wang.mx/posts/zerotier-creating-moons)
-- [ZeroTier Linux系统安装及搭建moon节点 - hai_sir - 博客园](https://www.cnblogs.com/z-h-q/p/18138653) #gfw
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) #gfw
 - [How To Configure Storage On Linux](https://embeddedprojects101.com/the-beginners-guide-to-linux-storage-configuration/) #linux
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
