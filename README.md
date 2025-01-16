@@ -1,3 +1,4 @@
+- [Remote Jobs | Working Nomads](https://www.workingnomads.com/jobs) #remote-job
 - [Remote Jobs in Programming, Support, Design and more](https://remotive.com/) #remote-job
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) #gfw
 - [How To Configure Storage On Linux](https://embeddedprojects101.com/the-beginners-guide-to-linux-storage-configuration/) #linux
