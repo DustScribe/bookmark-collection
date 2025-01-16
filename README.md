@@ -1,3 +1,4 @@
+- [Photoprism教程：建立你的私人云相册](https://taoofcoding.tech/blogs/2024-01-07/the-tutor-of-build-your-photopri) #nas
 - [yolain/ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) #comfyui
 - [Remote Jobs | Working Nomads](https://www.workingnomads.com/jobs) #remote-job
 - [Remote Jobs in Programming, Support, Design and more](https://remotive.com/) #remote-job
