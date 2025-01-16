@@ -1,3 +1,4 @@
+- [yolain/ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) #comfyui
 - [Remote Jobs | Working Nomads](https://www.workingnomads.com/jobs) #remote-job
 - [Remote Jobs in Programming, Support, Design and more](https://remotive.com/) #remote-job
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) #gfw
