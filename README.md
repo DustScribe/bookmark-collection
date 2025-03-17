@@ -1,3 +1,4 @@
+- [Maple Mono](https://font.subf.dev/zh-cn/#why) #字体
 - [knowledgefxg/learning-english](https://github.com/knowledgefxg/learning-english)
 - [使用 WireGuard 组网实现内网穿透 | varkai](https://varkai.com/posts/operation/use-wireguard-networking-to-achieve-intranet-penetration/) #nas
 - [Photoprism教程：建立你的私人云相册](https://taoofcoding.tech/blogs/2024-01-07/the-tutor-of-build-your-photopri) #nas
